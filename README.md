@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Advance Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [anyu-is-here.vercel.app](anyu-is-here.vercel.app)
+- 👨‍💻 All of my projects are available at [anyu-is-here.vercel.app](https://anyu-is-here.vercel.app/)
 
 - 📫 How to reach me **banyubagastaranugroho@gmail.com**
 
